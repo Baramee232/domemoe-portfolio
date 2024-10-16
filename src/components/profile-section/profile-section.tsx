@@ -13,7 +13,7 @@ export default function ProfileSection() {
           Domemie
         </div>
         <div className="h-auto w-[650px]">
-          <img className="dome-prof" src="./public/images/idomeStanding.png" />
+          <img className="dome-prof" src="./images/idomeStanding.png" />
         </div>
         <div className="details-card bg-white p-5 absolute top-[7%] left-[10%]">
           <div className="text-3xl text-black">Personal Information</div>
