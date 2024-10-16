@@ -14,19 +14,19 @@ export default function ProjectSection() {
             href="https://sketchfab.com/3d-models/character-jommarn-706b328e6b6642dcab722cd69baca6ea?fbclid=IwY2xjawF8YkFleHRuA2FlbQIxMAABHVp3PUPV_hNN5uNv0oCO1e5V3SongU5X7F1A0Pkz6Lfvwc-rBkn69PlHSQ_aem_hhGlon0zQMhQcCbvhUt6mQ"
             target="_blank"
           >
-            <img src="./public/images/6.png" />
+            <img src="./static/public/images/6.png" />
           </a>
           <a
             href="https://sketchfab.com/3d-models/jommarn-winterr-2cdd0e8b97844d07b11363c61521d48a?fbclid=IwY2xjawF8YlNleHRuA2FlbQIxMAABHWPUwknamB4Z5ycFrMQZ00xDQcNz1zOPjA9cgaYy4dowocHQ9ybQ8UPVnw_aem_sRDUsyzzF5crFGl1I8AG9A"
             target="_blank"
           >
-            <img src="./public/images/3.png" />
+            <img src="./static/public/images/3.png" />
           </a>
           <a
             href="https://sketchfab.com/3d-models/jommarn-with-nagini-7ae7d543857a4bf485b65be80caf4120?fbclid=IwY2xjawF8YmdleHRuA2FlbQIxMAABHaZQuo6f5rsckyPvGg6bQZViehKP13k57Xo50Jg5yyQYEOv6AHNXAKX5TA_aem_hf_OXYmgHSH_jOGbrDGVmw"
             target="_blank"
           >
-            <img src="./public/images/5.png" />
+            <img src="./static/public/images/5.png" />
           </a>
         </div>
         <div className="flex project-row gap-5 mt-5">
@@ -34,19 +34,19 @@ export default function ProjectSection() {
             href="https://sketchfab.com/3d-models/652110232-domemie-finalworkdesk-49cf134c2af941cf93e7eaa0363e0472?fbclid=IwY2xjawF8YQ9leHRuA2FlbQIxMAABHWPUwknamB4Z5ycFrMQZ00xDQcNz1zOPjA9cgaYy4dowocHQ9ybQ8UPVnw_aem_sRDUsyzzF5crFGl1I8AG9A"
             target="_blank"
           >
-            <img src="./public/images/1.png" />
+            <img src="./static/public/images/1.png" />
           </a>
           <a
             href="https://sketchfab.com/3d-models/jommarn-student-83eff922ce6c4713aba5c11108dca634?fbclid=IwY2xjawF8YeFleHRuA2FlbQIxMAABHaZQuo6f5rsckyPvGg6bQZViehKP13k57Xo50Jg5yyQYEOv6AHNXAKX5TA_aem_hf_OXYmgHSH_jOGbrDGVmw"
             target="_blank"
           >
-            <img src="./public/images/4.png" />
+            <img src="./static/public/images/4.png" />
           </a>
           <a
             href="https://sketchfab.com/3d-models/scene-room-hong-prung-ya-c851ee3633e14e859397b4a5360236ae?fbclid=IwY2xjawF8Yf9leHRuA2FlbQIxMAABHa2m1jiiXDJlYRso9zicLYCe8GV6iK0LnW3RGCL7xDriIDtNY3OdmxoEmw_aem_ScMDysndBwZbMQx4nyMhUw"
             target="_blank"
           >
-            <img src="./public/images/2.png" />
+            <img src="./static/public/images/2.png" />
           </a>
         </div>
       </div>
