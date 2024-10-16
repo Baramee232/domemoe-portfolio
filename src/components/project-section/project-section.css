@@ -1,0 +1,19 @@
+.project-row > a {
+  transition: 0.3s;
+  height: 400px;
+  width: auto;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.project-row > a:hover {
+  cursor: pointer;
+  transition: 0.3s;
+  height: 420px;
+}
+.project-row {
+  padding: 0 20px;
+}
+.project-row > a > img {
+  height: 100%;
+  width: 100%;
+}

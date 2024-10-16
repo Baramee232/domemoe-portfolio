@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&display=swap");
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.tag {
+  font-family: "Qwitcher Grypen", cursive;
+  position: absolute;
+  font-size: 8rem;
+}

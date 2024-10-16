@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&display=swap");
+.profile-main {
+}
+.details-card {
+  width: 350px;
+  height: 350px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  position: absolute;
+  color: rgba(0, 0, 0, 0.639);
+}
+.details-card > div {
+  margin-bottom: 5px;
+}
+.title-prof {
+  font-family: "Qwitcher Grypen", cursive;
+  font-size: 10rem;
+}
