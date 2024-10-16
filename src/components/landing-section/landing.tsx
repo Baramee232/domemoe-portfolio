@@ -26,7 +26,7 @@ export default function Landing() {
         </div>
         <div className="w-[70%] h-full flex justify-center items-end relative bg-gray-">
           <div className="w-[600px] h-auto">
-            <img className="w-full h-full" src="./images/idomeNoBG.png" />
+            <img className="w-full h-full" src="./images/domeMain.png" />
             <div className="tag text-pink-500 top-10 left-[25%]">
               "Creative"
             </div>
